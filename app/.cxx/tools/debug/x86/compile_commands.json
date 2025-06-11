@@ -1,0 +1,7 @@
+[
+{
+  "directory": "D:/Assignment/Cam/app/.cxx/Debug/1695t2m5/x86",
+  "command": "C:\\Users\\Ram\\AppData\\Local\\Android\\Sdk\\ndk\\27.0.12077973\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android24 --sysroot=C:/Users/Ram/AppData/Local/Android/Sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dedgedetection_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles\\edgedetection.dir\\edgedetection.cpp.o -c D:\\Assignment\\Cam\\app\\src\\main\\cpp\\edgedetection.cpp",
+  "file": "D:\\Assignment\\Cam\\app\\src\\main\\cpp\\edgedetection.cpp"
+}
+]

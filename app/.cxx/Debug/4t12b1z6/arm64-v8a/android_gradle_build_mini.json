@@ -1,0 +1,29 @@
+{
+  "buildFiles": [
+    "D:\\Assignment\\Cam\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\Ram\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\ninja.exe",
+      "-C",
+      "D:\\Assignment\\Cam\\app\\.cxx\\Debug\\4t12b1z6\\arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\Ram\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\ninja.exe",
+    "-C",
+    "D:\\Assignment\\Cam\\app\\.cxx\\Debug\\4t12b1z6\\arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "native-lib::@6890427a1f51a3e7e1df": {
+      "artifactName": "native-lib",
+      "abi": "arm64-v8a",
+      "output": "D:\\Assignment\\Cam\\app\\build\\intermediates\\cxx\\Debug\\4t12b1z6\\obj\\arm64-v8a\\libnative-lib.so",
+      "runtimeFiles": [
+        "D:\\Assignment\\Cam\\opencv\\build\\intermediates\\cmake\\debug\\obj\\arm64-v8a\\libopencv_java4.so"
+      ]
+    }
+  }
+}

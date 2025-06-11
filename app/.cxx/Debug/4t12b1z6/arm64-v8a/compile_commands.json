@@ -1,0 +1,7 @@
+[
+{
+  "directory": "D:/Assignment/Cam/app/.cxx/Debug/4t12b1z6/arm64-v8a",
+  "command": "C:\\Users\\Ram\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/Ram/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Ram/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dnative_lib_EXPORTS -ID:/Assignment/Cam/app/src/main/cpp/../../../../opencv/src/main/jni/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -O0 -fno-limit-debug-info  -fPIC -o CMakeFiles\\native-lib.dir\\native-lib.cpp.o -c D:\\Assignment\\Cam\\app\\src\\main\\cpp\\native-lib.cpp",
+  "file": "D:\\Assignment\\Cam\\app\\src\\main\\cpp\\native-lib.cpp"
+}
+]

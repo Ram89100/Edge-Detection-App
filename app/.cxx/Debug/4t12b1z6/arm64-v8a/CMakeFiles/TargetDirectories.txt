@@ -1,0 +1,3 @@
+D:/Assignment/Cam/app/.cxx/Debug/4t12b1z6/arm64-v8a/CMakeFiles/native-lib.dir
+D:/Assignment/Cam/app/.cxx/Debug/4t12b1z6/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/Assignment/Cam/app/.cxx/Debug/4t12b1z6/arm64-v8a/CMakeFiles/rebuild_cache.dir

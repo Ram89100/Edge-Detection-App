@@ -1,0 +1,3 @@
+D:/Assignment/Cam/opencv/.cxx/Debug/r5u172tk/x86_64/CMakeFiles/opencv_jni_shared.dir
+D:/Assignment/Cam/opencv/.cxx/Debug/r5u172tk/x86_64/CMakeFiles/edit_cache.dir
+D:/Assignment/Cam/opencv/.cxx/Debug/r5u172tk/x86_64/CMakeFiles/rebuild_cache.dir
