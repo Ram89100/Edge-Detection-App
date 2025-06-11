@@ -230,11 +230,7 @@ void main() {
 - Verify proper resource cleanup
 
 ### Device Compatibility
-Tested on:
-- Samsung Galaxy S21+ (Android 12)
-- Google Pixel 6 (Android 13)
-- OnePlus 9 Pro (Android 12)
-- Xiaomi Mi 11 (Android 11)
+
 
 ## 🐛 Troubleshooting
 
