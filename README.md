@@ -9,7 +9,7 @@
 
 A high-performance Android application demonstrating real-time camera feed processing using **OpenCV C++**, **OpenGL ES rendering**, and **JNI integration**. This project showcases advanced Android development techniques with native code optimization for computer vision applications.
 
-![Demo Preview](https://via.placeholder.com/800x400/2E8B57/FFFFFF?text=Real-Time+Edge+Detection+Demo)
+![Demo Preview](https://via.placeholder.com/800x400/2E8B57/FFFFFF?text=Real-Time+Edge+Detection+Demo)    (Coming Soon)
 
 ## 🚀 Features
 
